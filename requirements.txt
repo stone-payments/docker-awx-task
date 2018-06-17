@@ -1,0 +1,7 @@
+ansible
+pyvmomi
+jmespath
+dnspython
+f5-sdk
+netaddr
+bigsuds
